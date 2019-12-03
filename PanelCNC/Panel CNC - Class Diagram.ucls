@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="PanelCNC.InterfaceCNC" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/PanelCNC/InterfaceCNC.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="602" y="310"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="PanelCNC.InterfaceCNC.InterfaceCNCServlet" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/PanelCNC/InterfaceCNC.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="597" y="506"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="views.ConnectionDesign" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/ConnectionDesign.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="150" x="-108" y="-106"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="views.ConnectionView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/ConnectionView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="167" x="65" y="-106"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="views.ConsoleDesign" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/ConsoleDesign.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="151" x="-110" y="59"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="views.ConsoleView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/ConsoleView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="54" width="156" x="63" y="55"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="views.DefaultView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/DefaultView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="397" y="-219"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="views.GReaderDesign" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/GReaderDesign.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="150" x="-115" y="212"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="views.GReaderView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/GReaderView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="151" x="68" y="213"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="views.MainFrame" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/MainFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="54" width="183" x="516" y="-173"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="views.NavigationPanelDesign" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/NavigationPanelDesign.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="154" x="-118" y="378"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="views.NavigationPanelView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/NavigationPanelView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="164" x="61" y="373"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="logic.Comunicator" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/logic/Comunicator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="168" x="803" y="69"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="logic.Data" project="PanelCNC" file="/PanelCNC/src/main/java/logic/Data.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="109" x="1024" y="108"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="logic.GcodeReader" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/logic/GcodeReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="54" width="160" x="829" y="-167"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="logic.Replicator" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/logic/Replicator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="54" width="156" x="995" y="-74"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="logic.StatusManager" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/logic/StatusManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="156" x="807" y="207"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="18">    
+    <bendpoint x="277" y="-1"/>    
+    <bendpoint x="276" y="169"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="19" name="gReaderView"/>      
+      <multiplicity id="20" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <bendpoint x="1193" y="98"/>    
+    <bendpoint x="1168" y="213"/>    
+    <bendpoint x="1108" y="336"/>    
+    <bendpoint x="804" y="340"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="22" name="interfaceCNC">        
+        <position height="18" width="74" x="695" y="341"/>      
+      </attribute>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <bendpoint x="148" y="38"/>    
+    <bendpoint x="525" y="46"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="25" name="interfaceCNC">        
+        <position height="18" width="74" x="524" y="132"/>      
+      </attribute>      
+      <multiplicity id="26" minimum="0" maximum="1">        
+        <position height="16" width="23" x="566" y="166"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <bendpoint x="1073" y="301"/>    
+    <bendpoint x="1139" y="203"/>    
+    <bendpoint x="1164" y="95"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="28" name="replicator"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="31">    
+    <bendpoint x="455" y="-20"/>    
+    <bendpoint x="439" y="217"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="32" name="navigationPanelView"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="34">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="35">    
+    <bendpoint x="235" y="-12"/>    
+    <bendpoint x="236" y="81"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="36" name="consoleView">        
+        <position height="18" width="74" x="203" y="92"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <bendpoint x="840" y="280"/>    
+    <bendpoint x="1042" y="274"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="39" name="data"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <bendpoint x="1028" y="-189"/>    
+    <bendpoint x="784" y="-192"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="42" name="mainFrame">        
+        <position height="18" width="62" x="713" y="-208"/>      
+      </attribute>      
+      <multiplicity id="43" minimum="0" maximum="1">        
+        <position height="16" width="23" x="693" y="-196"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="45" name="data"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="48">    
+    <bendpoint x="788" y="47"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="49" name="gCodeReader"/>      
+      <multiplicity id="50" minimum="0" maximum="1">        
+        <position height="16" width="23" x="836" y="-85"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="52">    
+    <bendpoint x="681" y="20"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="53" name="interfaceCNC">        
+        <position height="18" width="74" x="609" y="153"/>      
+      </attribute>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="56" name="mainFrame">        
+        <position height="18" width="62" x="577" y="-63"/>      
+      </attribute>      
+      <multiplicity id="57" minimum="0" maximum="1">        
+        <position height="16" width="23" x="616" y="-108"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <bendpoint x="762" y="187"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="59" name="comunicator">        
+        <position height="18" width="69" x="783" y="147"/>      
+      </attribute>      
+      <multiplicity id="60" minimum="0" maximum="1">        
+        <position height="16" width="23" x="792" y="128"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <bendpoint x="395" y="312"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="62" name="interfaceCNC"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="65" name="mainFrame">        
+        <position height="18" width="62" x="724" y="-160"/>      
+      </attribute>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <bendpoint x="403" y="395"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="68" name="interfaceCNC">        
+        <position height="18" width="74" x="443" y="370"/>      
+      </attribute>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <bendpoint x="395" y="193"/>    
+    <bendpoint x="567" y="1"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="71" name="mainFrame">        
+        <position height="18" width="62" x="475" y="-59"/>      
+      </attribute>      
+      <multiplicity id="72" minimum="0" maximum="1">        
+        <position height="16" width="23" x="504" y="-69"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="74" name="comunicator">        
+        <position height="18" width="67" x="891" y="151"/>      
+      </attribute>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="77" name="statusManager">        
+        <position height="18" width="82" x="719" y="242"/>      
+      </attribute>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="80">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="81" name="comunicator">        
+        <position height="18" width="69" x="896" y="20"/>      
+      </attribute>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="83">    
+    <bendpoint x="757" y="-59"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="84" name="mainFrame">        
+        <position height="18" width="62" x="692" y="-106"/>      
+      </attribute>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="86">    
+    <bendpoint x="142" y="145"/>    
+    <bendpoint x="502" y="149"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="87" name="interfaceCNC">        
+        <position height="18" width="72" x="471" y="155"/>      
+      </attribute>      
+      <multiplicity id="88" minimum="0" maximum="1">        
+        <position height="16" width="23" x="496" y="178"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="89">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="90" name="data"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="92">    
+    <bendpoint x="343" y="181"/>    
+    <bendpoint x="345" y="-4"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="93" name="mainframe"/>      
+      <multiplicity id="94" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="95">    
+    <bendpoint x="266" y="-141"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="96" name="mainFrame"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="98">    
+    <bendpoint x="311" y="-78"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="99" name="connectionView"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

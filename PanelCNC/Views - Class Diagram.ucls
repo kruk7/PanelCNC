@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="views" project="PanelCNC" file="/PanelCNC/src/main/java/views" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1111" width="1016" x="20" y="43"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="views.GReaderView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/GReaderView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="298" x="408" y="578"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="views.NavigationPanelView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/NavigationPanelView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="872" y="1008"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="views.MainFrame" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/MainFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="230" x="67" y="639"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="views.ConnectionDesign" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/ConnectionDesign.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="172" width="238" x="57" y="112"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="views.GReaderDesign" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/GReaderDesign.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="630" y="222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="views.NavigationPanelDesign" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/NavigationPanelDesign.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="870" y="446"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="views.ConnectionView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/ConnectionView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="177" y="441"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="views.ConsoleDesign" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/ConsoleDesign.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="422" y="198"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="views.ConsoleView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/ConsoleView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="226" width="171" x="335" y="327"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="views.DefaultView" project="PanelCNC" 
+    file="/PanelCNC/src/main/java/views/DefaultView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="185" y="1086"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="13">    
+    <bendpoint x="369" y="882"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="14" name="gReaderView">        
+        <position height="18" width="77" x="319" y="717"/>      
+      </attribute>      
+      <multiplicity id="15" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="17">    
+    <bendpoint x="447" y="973"/>    
+    <bendpoint x="604" y="973"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="18" name="navigationPanelView">        
+        <position height="18" width="111" x="600" y="952"/>      
+      </attribute>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <bendpoint x="333" y="624"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="21" name="consoleView">        
+        <position height="18" width="74" x="269" y="587"/>      
+      </attribute>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <bendpoint x="331" y="741"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="24" name="mainframe">        
+        <position height="18" width="58" x="322" y="852"/>      
+      </attribute>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="27">    
+    <bendpoint x="598" y="1065"/>    
+    <bendpoint x="391" y="1065"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="28" name="mainFrame"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <bendpoint x="225" y="587"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="31" name="mainFrame"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="103" y="594"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="34" name="connectionView">        
+        <position height="18" width="89" x="20" y="565"/>      
+      </attribute>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="36">    
+    <bendpoint x="630" y="474"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

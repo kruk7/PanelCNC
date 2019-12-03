@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <meta name="design-properties" content="{&quot;RULERS_VISIBLE&quot;:true,&quot;GUIDELINES_VISIBLE&quot;:false,&quot;SNAP_TO_OBJECTS&quot;:true,&quot;SNAP_TO_GRID&quot;:true,&quot;SNAPPING_DISTANCE&quot;:10,&quot;GENERATE_GETTERS&quot;:false,&quot;JAVA_SOURCES_ROOT&quot;:&quot;src/main/java&quot;,&quot;THEME&quot;:&quot;InterfaceTheme&quot;}">
+  <meta name="vaadin-version" content="8.1.5">
+ </head>
+ <body>
+  <vaadin-vertical-layout margin="false">
+   <vaadin-horizontal-layout width-full _id="top" :expand="5">
+    <vaadin-vertical-layout spacing="false" size-auto margin="false" _id="positionLayout">
+     <vaadin-panel icon="fonticon://Vaadin-Icons/e61e" caption="Position" size-auto _id="position">
+      <vaadin-vertical-layout size-auto _id="barLayout">
+       <vaadin-horizontal-layout _id="barX" :center>
+        <vaadin-text-field caption="X-axis" readonly value="0.000" _id="xPositionField" :bottom></vaadin-text-field>
+        <vaadin-button plain-text _id="button0X" :bottom>
+          0 
+        </vaadin-button>
+       </vaadin-horizontal-layout>
+       <vaadin-horizontal-layout _id="barY" :center>
+        <vaadin-text-field caption="Y-axis" readonly value="0.000" _id="yPositionFiled" :bottom></vaadin-text-field>
+        <vaadin-button plain-text _id="button0Y" :bottom>
+          0 
+        </vaadin-button>
+       </vaadin-horizontal-layout>
+       <vaadin-horizontal-layout _id="barZ" :center>
+        <vaadin-text-field caption="Z-axis" readonly value="0.000" _id="zPositionField" :bottom></vaadin-text-field>
+        <vaadin-button plain-text _id="button0Z" :bottom>
+          0 
+        </vaadin-button>
+       </vaadin-horizontal-layout>
+      </vaadin-vertical-layout>
+     </vaadin-panel>
+    </vaadin-vertical-layout>
+    <vaadin-vertical-layout spacing="false" size-full margin="false" _id="joggingLayout" :expand="5">
+     <vaadin-panel icon="fonticon://Vaadin-Icons/e714" caption="Jogging" size-full _id="jogging">
+      <vaadin-horizontal-layout spacing="false" margin _id="joggingGroup">
+       <vaadin-horizontal-layout _id="ratioLayout" :middle>
+        <vaadin-radio-button-group caption="Distance" data-item-type="java.lang.String" _id="ratioDistance">
+         <option item="1000">1000</option>
+         <option item="100">100</option>
+         <option item="10">10</option>
+         <option item="1">1</option>
+        </vaadin-radio-button-group>
+        <vaadin-radio-button-group caption="Feed" data-item-type="java.lang.String" _id="ratioFeed">
+         <option item="1000">1000</option>
+         <option item="500">500</option>
+         <option item="100">100</option>
+         <option item="50">50</option>
+        </vaadin-radio-button-group>
+       </vaadin-horizontal-layout>
+       <vaadin-grid-layout spacing _id="jogButton" :middle>
+        <row>
+         <column></column>
+         <column>
+          <vaadin-button width="50px" height="50px" plain-text _id="buttonPlusY" :middle :center>
+            +Y 
+          </vaadin-button>
+         </column>
+         <column></column>
+         <column>
+          <vaadin-button width="50px" height="50px" plain-text _id="buttonPlusZ" :middle :center>
+            +Z 
+          </vaadin-button>
+         </column>
+        </row>
+        <row>
+         <column>
+          <vaadin-button width="50px" height="50px" plain-text _id="buttonMinusX" :middle :center>
+            -X 
+          </vaadin-button>
+         </column>
+         <column></column>
+         <column>
+          <vaadin-button width="50px" height="50px" plain-text _id="buttonPlusX" :middle :center>
+            +X 
+          </vaadin-button>
+         </column>
+        </row>
+        <row>
+         <column></column>
+         <column>
+          <vaadin-button width="50px" height="50px" plain-text _id="buttonMinusY" :middle :center>
+            -Y 
+          </vaadin-button>
+         </column>
+         <column></column>
+         <column>
+          <vaadin-button width="50px" height="50px" plain-text _id="buttonMinusZ" :middle :center>
+            -Z 
+          </vaadin-button>
+         </column>
+        </row>
+       </vaadin-grid-layout>
+      </vaadin-horizontal-layout>
+     </vaadin-panel>
+    </vaadin-vertical-layout>
+   </vaadin-horizontal-layout>
+   <vaadin-panel icon="fonticon://Vaadin-Icons/e692" caption="Control" _id="control">
+    <vaadin-horizontal-layout margin _id="controlBar">
+     <vaadin-text-field description="In what condition is the machine." readonly value="State" _id="stateField" :middle></vaadin-text-field>
+     <vaadin-button width="120px" plain-text _id="buttonHold" :middle>
+       Hold 
+     </vaadin-button>
+     <vaadin-button width="120px" plain-text _id="buttonResume" :middle>
+       Resume 
+     </vaadin-button>
+     <vaadin-button width="120px" plain-text _id="buttonReset" :middle>
+       Reset 
+     </vaadin-button>
+     <vaadin-button width="120px" plain-text _id="buttonUnlock" :middle>
+       Unlock 
+     </vaadin-button>
+    </vaadin-horizontal-layout>
+   </vaadin-panel>
+  </vaadin-vertical-layout>
+ </body>
+</html>

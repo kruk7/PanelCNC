@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <meta name="design-properties" content="{&quot;RULERS_VISIBLE&quot;:true,&quot;GUIDELINES_VISIBLE&quot;:false,&quot;SNAP_TO_OBJECTS&quot;:true,&quot;SNAP_TO_GRID&quot;:true,&quot;SNAPPING_DISTANCE&quot;:10,&quot;GENERATE_GETTERS&quot;:false,&quot;JAVA_SOURCES_ROOT&quot;:&quot;src/main/java&quot;,&quot;THEME&quot;:&quot;InterfaceTheme&quot;}">
+  <meta name="vaadin-version" content="8.1.5">
+ </head>
+ <body>
+  <vaadin-panel icon="fonticon://Vaadin-Icons/e7d8" caption="G-Reader" responsive size-full>
+   <vaadin-vertical-layout _id="greaderLayout">
+    <vaadin-text-field caption="G Code File" width-full readonly _id="pathFileField"></vaadin-text-field>
+    <vaadin-text-field caption="Executed line" width-full readonly value="0000 / 0000" _id="exeCountField"></vaadin-text-field>
+    <vaadin-progress-bar width-full></vaadin-progress-bar>
+    <vaadin-horizontal-layout width-full _id="buttonBar">
+     <vaadin-button icon="fonticon://Vaadin-Icons/e78e" width-full plain-text _id="buttonStart">
+       Start 
+     </vaadin-button>
+     <vaadin-button icon="fonticon://Vaadin-Icons/e7a3" width-full plain-text _id="buttonOneStep">
+       One Step 
+     </vaadin-button>
+     <vaadin-button icon="fonticon://Vaadin-Icons/e643" width-full plain-text _id="buttonReaload">
+       Reload 
+     </vaadin-button>
+     <vaadin-button icon="fonticon://Vaadin-Icons/e78d" width-full plain-text _id="buttonPause">
+       Pause 
+     </vaadin-button>
+    </vaadin-horizontal-layout>
+   </vaadin-vertical-layout>
+  </vaadin-panel>
+ </body>
+</html>

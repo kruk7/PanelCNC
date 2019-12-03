@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <meta name="design-properties" content="{&quot;RULERS_VISIBLE&quot;:true,&quot;GUIDELINES_VISIBLE&quot;:false,&quot;SNAP_TO_OBJECTS&quot;:true,&quot;SNAP_TO_GRID&quot;:true,&quot;SNAPPING_DISTANCE&quot;:10,&quot;GENERATE_GETTERS&quot;:false,&quot;JAVA_SOURCES_ROOT&quot;:&quot;src/main/java&quot;,&quot;THEME&quot;:&quot;InterfaceTheme&quot;}">
+  <meta name="vaadin-version" content="8.1.5">
+ </head>
+ <body>
+  <vaadin-panel icon="fonticon://Vaadin-Icons/e782" caption="Console" size-full>
+   <vaadin-vertical-layout size-full _id="consoleLayout">
+    <vaadin-horizontal-layout width-full height="50px" _id="commandBar" :middle>
+     <vaadin-text-field width-full height="40px" _id="commandField" :expand="5"></vaadin-text-field>
+     <vaadin-button icon="fonticon://Vaadin-Icons/e921" width="100px" height="40px" plain-text _id="buttonSend">
+       Send 
+     </vaadin-button>
+    </vaadin-horizontal-layout>
+    <vaadin-text-area size-full readonly _id="consoleView" :expand="5"></vaadin-text-area>
+   </vaadin-vertical-layout>
+  </vaadin-panel>
+ </body>
+</html>
