@@ -3,7 +3,7 @@ PanelCNC
 
 PanelCNC is a user interfence for CNC machine which based on GRBL controller. This application created as WEB App in Java witch Vaadin framework. The application provides basic communication functions between the user and the CNC controller e.g. connecting to the machine, axis control, position display, log delivery, uploading G-code
 
-![alt text](https://drive.google.com/open?id=1jBKnYfG-1tetqESO27dqbjng9G3RIuhD)
+![Example prview](https://drive.google.com/open?id=1jBKnYfG-1tetqESO27dqbjng9G3RIuhD)
 
 Workflow
 ========
